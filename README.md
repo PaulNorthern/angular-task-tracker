@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Fake REST Api Server
 
-Run fake api server `npm run server`
+Run fake api server `npm run server`. Navigate to http://localhost:5000/tasks
 
 ## Build
 
